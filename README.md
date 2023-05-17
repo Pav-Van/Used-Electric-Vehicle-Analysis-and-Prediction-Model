@@ -1,6 +1,6 @@
 ## Installation
  
-The Anaconda distribution of Python is needed to run the code, as well as the squarify and lightgbm libraries. The notebook uses python 3.11.3. To download the cars.csv, Git LFS (Large File Storage) is needed.
+The Anaconda distribution of Python is needed to run the code, as well as the squarify and lightgbm libraries. The notebook uses python 3.11.3. To download the cars.csv from Github, Git LFS (Large File Storage) is needed.
 
 ## Project Motivation
 
@@ -10,6 +10,7 @@ This project analyzes the used electric vehicle market in the United States. As 
 
 * Used_EV_analysis.ipynb - All code is stored in this notebook.
 * cars.csv - All used car data is stored in this csv file.
+* License.md - License information is stored in this file.
 
 ## Results
 
