@@ -30,7 +30,7 @@ My conclusion after these three findings: if you are looking for an electric veh
 
  This LGB model could be put into production and be used to help a buyer determine a fair price for a car. The user would enter the different features of a used car they are interested in (Year, Mileage, Model, etc. ). The model would then return a prediction for the price. The error could be added and subtracted from the price to give the limits of a 'Fair Price' range.
 
-You can find the visulizations and insights produced from this report in a read friendly format [here](https://medium.com/@Philip_Van/5-insights-on-the-used-electric-vehicle-market-13013229b038).
+For a detailed post explaining the process and reasoning that lead to these results are found here: [here](https://medium.com/@Philip_Van/5-insights-on-the-used-electric-vehicle-market-13013229b038).
 
 ## Licensing, Authors, Acknowledgements
 
