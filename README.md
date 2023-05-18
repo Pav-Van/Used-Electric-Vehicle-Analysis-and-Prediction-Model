@@ -28,7 +28,7 @@ My conclusion after these three findings: if you are looking for an electric veh
 
 5. Five predictive models were tested. After cross-validation hyperparameter tuning was performed, the best performing price prediction model was the one that used Light Gradient Boosting. It is fast (.5 secs to train and predict the values) and the error was approximately 2863 which was about the same as the random forest model and better than all the rest. This model could be put into production and be used to help a buyer determine a fair price for a car. The user would enter the different features of a used car they are interested in (Year, Mileage, Model, etc. ). The model would then return a prediction for the price. The error could be added and subtracted from the price to give the limits of a 'Fair Price' range.
 
-For a detailed explanation, insights gained from the code can be found on this [post]()
+You can find the visulizations and insights produced from this report in a read friendly format here: [post](https://medium.com/@Philip_Van/5-insights-on-the-used-electric-vehicle-market-13013229b038)
 
 ## Licensing, Authors, Acknowledgements
 
